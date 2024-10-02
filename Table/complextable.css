@@ -1,0 +1,12 @@
+body{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+table{
+  border-radius: 10px;
+  border: 10px;
+  border-style: outset;
+  width: 600px;
+  height: 500px;
+}
