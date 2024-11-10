@@ -1,0 +1,13 @@
+h1 {
+  color: aqua;
+  background-color: black;
+}
+
+h2:hover {
+  color: rgb(11, 190, 235);
+  background-color: rgb(228, 10, 217);
+}
+
+h3 {
+  font-size: 200;
+}
